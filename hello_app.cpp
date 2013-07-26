@@ -6,31 +6,22 @@ wxcvwxcjvklwjxlvj
 wcxvkljwxcklvjklwxjvklwxjv
 jdgkjsdkljgsd
 qlmfjqsdkljfqklsf
-$
-dsfgopsdfgklsdfigopdfsgosdjgklsdfjg
-dfgmlsdfglmsdglksdfj
-dgmsdjgklsdgklsdjgsdfjlùg
-sdfgsdfgsdgsdgsdfgsdgsdfgsdfgdfsgsd
-
-this is a testssdfsdfsdfsdfsdfsdfsdf
 qsdfkljqsdklfjqskljfklqsjf
 qsdkfjqklsjfklqsf*mqsdfjklmqsjf
-qsdfsdfsdfsdfsdf
+q
 sdfqlmsfkqlmskflmqskfjhqd
 f qsdkmj qsdkjfklqsjfklqsjfkl
 mùqsdkflmqskf
 sdqfmqsdklfjqskf
 qsdflkqsjfklqjsklf
 qsdfklsdqjfkljqskl
-éqsdfqsfqsdfqsd fqsd fsd fsdqf qsf qsdf azeré"&'é(é"'-è--'("éoiùm!:jkk;,jlkz("eq'trgqfd)
+é
 sdjfqklsjfklqs
 qsdfjklsdqfqjlmfjqs
 ééééééééééééééééééééééééééééééééé
-çàçàùùùgsd
+çàçàùùù
 */
 
-¹ &&
-&é&é&&``-(è-(è|[è-(è-(è(-è-(èèèè---- `""
 #include "external_interface/external_interface.h"
 #include "algorithms/routing/tree/tree_routing.h"
 
